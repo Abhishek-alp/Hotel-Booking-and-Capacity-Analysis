@@ -1,7 +1,7 @@
 ## Hotel Booking and Capacity Analysis :
 
 * **Project objective:**
-  **1.** Clean, transform, and merge raw hotel booking (`bookings_data.csv`) and capacity ([rooms_data.csv](https://github.com/Abhishek-alp/Hotel-Booking-and-Capacity-Analysis/blob/main/bookings_data.pdf)) datasets.
+  **1.** Clean, transform, and merge raw hotel booking ([`bookings_data.csv`](https://github.com/Abhishek-alp/Hotel-Booking-and-Capacity-Analysis/blob/main/bookings_data.pdf)) and capacity ([rooms_data.csv](https://github.com/Abhishek-alp/Hotel-Booking-and-Capacity-Analysis/blob/main/bookings_data.pdf)) datasets.
   **2.** Create an analysis-ready dataset to calculate KPIs like occupancy percentage (`occ%`) and availability status.
   **3.** Derive actionable insights to evaluate hotel performance and booking trends.
 
